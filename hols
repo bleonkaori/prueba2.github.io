@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tú y Yo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            color: #e91e63;
+        }
+        p {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Para Mi Amor</h1>
+        <p>Tú eres mi luz en los días oscuros,<br>
+        La razón por la que mi corazón late tan fuerte.<br>
+        Eres mi roca, mi apoyo, mi inspiración,<br>
+        Y siempre estaré agradecido por tu amor y dedicación.</p>
+        <p>Juntos, hemos creado recuerdos inolvidables,<br>
+        Y nuestros sueños compartidos se hacen realidad.<br>
+        Eres mi mejor amigo, mi confidente,<br>
+        Y contigo, el futuro parece siempre brillar.</p>
+        <p>Te amo más de lo que las palabras pueden expresar,<br>
+        Y siempre estaré a tu lado, sin importar qué pase.<br>
+        Gracias por ser tú, por ser mi todo,<br>
+        Y por hacer que cada día sea maravilloso.</p>
+        <p>Con todo mi amor,</p>
+        <p>[Tu Nombre]</p>
+    </div>
+</body>
+</html>
